@@ -1,0 +1,73 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.ogr{
+    max-width: 600px;
+}
+.sir{
+    background-color: #dcdce5;
+}
+.wh{
+    background-color: #ffffff;
+}
+.svg-tel{
+    column-gap: 8px;
+}.phone-main b{
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 24px;
+    color: #25252c;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.phone-main b:hover{
+    color: #fc830c;
+}
+.maintext{
+    width: 540px;
+    height: 102px;
+    font-size: 14px;
+    line-height: 24px;
+    color: #666666;
+    font-family: "Arial";
+}
+.pronas a{
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: #fd8300;
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Arial";
+    padding: 10px;
+    text-align: center;
+}
+.fonsir{
+    padding: 10px;
+    width: 600px;
+    background-color: #ededf5;
+}
+.icon{
+    align-items: center;
+}
+.icon h2{
+    text-align: center;
+    font-size: 14px;
+    line-height: 18px;
+    color: #24242b;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+.iconiz p{
+    width: 166px;
+    height: 58px;
+    font-size: 13px;
+    line-height: 18px;
+    color: #666666;
+    font-family: "Arial";
+    text-align: center;
+}
